@@ -1,0 +1,20 @@
+html body{
+  background-color: #F8BBD0;
+  color: #00838F;
+}
+
+.box{
+  position: relative;
+  margin: auto;
+  display: block;
+  /*optional background or border*/
+  border: solid 4px #AD1457;
+  border-radius: 10%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 800px;
+  height: 420px;
+  background: none;
+  padding-top: 17px;
+}
+
